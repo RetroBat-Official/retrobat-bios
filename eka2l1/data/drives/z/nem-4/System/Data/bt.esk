@@ -1,0 +1,25 @@
+[sockman]
+protocols= btlinkmanager,l2cap,rfcomm,sdp
+
+[hci]
+hcidllfilename= hci.dll
+port= 1
+
+[btlinkmanager]
+filename= bt.prt
+index= 1
+
+[l2cap]
+filename= bt.prt
+bindto= btlinkmanager
+index= 2
+
+[rfcomm]
+filename= bt.prt
+bindto= l2cap
+index= 3
+
+[sdp]
+filename= bt.prt
+bindto= l2cap
+index= 4
