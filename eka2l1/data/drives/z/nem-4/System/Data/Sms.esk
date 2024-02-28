@@ -1,7 +1,0 @@
-[sockman]
-protocols= sms
-
-[sms]
-filename= SMSPROT.PRT
-index= 1
-
