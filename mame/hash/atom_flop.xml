@@ -20,7 +20,7 @@ Acorn Atom - Floppy disk images
 		<year>2012</year>
 		<publisher>Retro Software</publisher>
 		<info name="author" value="Kees van Oss" />
-		<info name="usage" value="Load with *RUN&quot;runme&quot;" />
+		<info name="usage" value="Load with *RUN&quot;mchuck&quot;" />
 		<part name="flop1" interface="floppy_5_25">
 			<dataarea name="flop" size="102400">
 				<rom name="chuckie.dsk" size="102400" crc="1241ac5d" sha1="4ef6e1a18af27c922003415abb69987d54efe391" />
@@ -70,7 +70,7 @@ Acorn Atom - Floppy disk images
 		<year>2012</year>
 		<publisher>Retro Software</publisher>
 		<info name="author" value="Kees van Oss" />
-		<info name="usage" value="Load with *RUN&quot;runme&quot;" />
+		<info name="usage" value="Load with *RUN&quot;mgala&quot;" />
 		<part name="flop1" interface="floppy_5_25">
 			<dataarea name="flop" size="102400">
 				<rom name="gala.dsk" size="102400" crc="db52a3ae" sha1="ffece5ae2295818f649735c5b7711e740dfe4731" />
@@ -173,7 +173,7 @@ Acorn Atom - Floppy disk images
 		<year>2012</year>
 		<publisher>Retro Software</publisher>
 		<info name="author" value="Kees van Oss" />
-		<info name="usage" value="Load with *RUN&quot;runme&quot;" />
+		<info name="usage" value="Load with *RUN&quot;jungle&quot;" />
 		<part name="flop1" interface="floppy_5_25">
 			<dataarea name="flop" size="102400">
 				<rom name="jungle.dsk" size="102400" crc="92c50fe2" sha1="a6ffbdbf0f2f7b5c4038d44632a14e1b89682db0" />
