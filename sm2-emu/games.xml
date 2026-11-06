@@ -633,7 +633,7 @@
 
        3D fighter, same input layout as VF2. Uses the 315-5838/317-0229 chip,
        but only for a boot-time string check (protection="315-5838-doa"); no
-       315-5881 decryption on this board like the 2B version has. Copro data
+       315-5881 decryption on either the 2A or 2B DOA boards. Copro data
        region is empty.
        =================================================================== -->
   <game name="doaa" parent="doa" board="model2a" protection="315-5838-doa" preliminary="true">
